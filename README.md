@@ -37,12 +37,12 @@ Adiciona uma disciplina. Exemplo:
 
 ```json
 {
-    "codigo": 845126,
+	"codigo": 845126,
 	"nome": "REDES 1",
 	"turma": "A",
-  	"professor": "Diego Aves",
-  	"departamento": "CIC",
-  	"qtdCretidos": 4
+	"professor": "Diego Aves",
+	"departamento": "CIC",
+	"qtdCretidos": 4
 }
 ```
 
